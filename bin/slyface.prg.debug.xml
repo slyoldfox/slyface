@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="3" lineNum="11" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="3" lineNum="13" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="3" lineNum="14" pc="268435477" symbol="initialize"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="3" lineNum="15" pc="268435493" symbol="initialize"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="4" lineNum="19" pc="268435512" symbol="onLayout"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="4" lineNum="20" pc="268435516" symbol="onLayout"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="5" lineNum="26" pc="268435554" symbol="onShow"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="6" lineNum="30" pc="268435559" symbol="onUpdate"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="6" lineNum="31" pc="268435563" symbol="onUpdate"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="6" lineNum="32" pc="268435599" symbol="onUpdate"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="6" lineNum="34" pc="268435611" symbol="onUpdate"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="6" lineNum="37" pc="268435628" symbol="onUpdate"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="6" lineNum="38" pc="268435647" symbol="onUpdate"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="6" lineNum="39" pc="268435663" symbol="onUpdate"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="6" lineNum="40" pc="268435686" symbol="onUpdate"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="7" lineNum="50" pc="268435708" symbol="drawTime"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="7" lineNum="51" pc="268435712" symbol="drawTime"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="7" lineNum="52" pc="268435729" symbol="drawTime"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="7" lineNum="53" pc="268435739" symbol="drawTime"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="7" lineNum="55" pc="268435746" symbol="drawTime"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="7" lineNum="58" pc="268435758" symbol="drawTime"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="7" lineNum="59" pc="268435805" symbol="drawTime"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="7" lineNum="62" pc="268435860" symbol="drawTime"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="7" lineNum="63" pc="268435918" symbol="drawTime"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="7" lineNum="65" pc="268435966" symbol="drawTime"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="7" lineNum="66" pc="268436002" symbol="drawTime"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="7" lineNum="67" pc="268436119" symbol="drawTime"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="7" lineNum="69" pc="268436212" symbol="drawTime"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="7" lineNum="70" pc="268436248" symbol="drawTime"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="7" lineNum="71" pc="268436293" symbol="drawTime"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="8" lineNum="74" pc="268436345" symbol="drawCaloriesAndSteps"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="8" lineNum="75" pc="268436349" symbol="drawCaloriesAndSteps"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="8" lineNum="76" pc="268436385" symbol="drawCaloriesAndSteps"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="8" lineNum="77" pc="268436402" symbol="drawCaloriesAndSteps"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="8" lineNum="78" pc="268436412" symbol="drawCaloriesAndSteps"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="8" lineNum="79" pc="268436419" symbol="drawCaloriesAndSteps"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="8" lineNum="80" pc="268436419" symbol="drawCaloriesAndSteps"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="8" lineNum="81" pc="268436443" symbol="drawCaloriesAndSteps"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="8" lineNum="83" pc="268436482" symbol="drawCaloriesAndSteps"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="8" lineNum="85" pc="268436518" symbol="drawCaloriesAndSteps"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="8" lineNum="87" pc="268436606" symbol="drawCaloriesAndSteps"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="8" lineNum="91" pc="268436657" symbol="drawCaloriesAndSteps"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="8" lineNum="92" pc="268436667" symbol="drawCaloriesAndSteps"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="8" lineNum="93" pc="268436674" symbol="drawCaloriesAndSteps"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="8" lineNum="95" pc="268436753" symbol="drawCaloriesAndSteps"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="9" lineNum="99" pc="268436799" symbol="drawBattery"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="9" lineNum="100" pc="268436803" symbol="drawBattery"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="9" lineNum="101" pc="268436834" symbol="drawBattery"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="9" lineNum="102" pc="268436845" symbol="drawBattery"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="9" lineNum="104" pc="268436884" symbol="drawBattery"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="9" lineNum="107" pc="268436920" symbol="drawBattery"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="9" lineNum="108" pc="268436967" symbol="drawBattery"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="10" lineNum="114" pc="268437010" symbol="onHide"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="11" lineNum="118" pc="268437015" symbol="onExitSleep"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceView.mc" id="12" lineNum="122" pc="268437020" symbol="onEnterSleep"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceApp.mc" id="14" lineNum="5" pc="268437025" symbol="initialize"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceApp.mc" id="14" lineNum="6" pc="268437029" symbol="initialize"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceApp.mc" id="15" lineNum="10" pc="268437048" symbol="onStart"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceApp.mc" id="16" lineNum="14" pc="268437053" symbol="onStop"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceApp.mc" id="17" lineNum="18" pc="268437058" symbol="getInitialView"/>
+<entry filename="/Users/slyoldfox/eclipse-workspace/slyface/source/slyfaceApp.mc" id="17" lineNum="19" pc="268437062" symbol="getInitialView"/>
+<entry filename="Rez" id="23" lineNum="15" pc="268437100" symbol="WatchFace"/>
+<entry filename="Rez" id="23" lineNum="17" pc="268437112" symbol="WatchFace"/>
+<entry filename="Rez" id="23" lineNum="19" pc="268437275" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="17" method="true" symbol="drawBattery"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="8389401" symbol="is24Hour"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="15" method="true" symbol="drawTime"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="16" method="true" symbol="drawCaloriesAndSteps"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="10" object="true" symbol="slyfaceApp"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="9" object="true" symbol="slyfaceView"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435511" name="settings" stackId="1" startPc="268435460"/>
+<entry endPc="268435554" name="dc" stackId="1" startPc="268435512"/>
+<entry endPc="268435707" name="deviceSettings" stackId="2" startPc="268435563"/>
+<entry endPc="268435707" name="width" stackId="3" startPc="268435563"/>
+<entry endPc="268435708" name="dc" stackId="1" startPc="268435559"/>
+<entry endPc="268436344" name="hour" stackId="4" startPc="268435712"/>
+<entry endPc="268436344" name="today" stackId="7" startPc="268435712"/>
+<entry endPc="268436344" name="ampm" stackId="5" startPc="268435712"/>
+<entry endPc="268436344" name="min" stackId="6" startPc="268435712"/>
+<entry endPc="268436344" name="clockTime" stackId="3" startPc="268435712"/>
+<entry endPc="268436345" name="dc" stackId="1" startPc="268435708"/>
+<entry endPc="268436345" name="width" stackId="2" startPc="268435708"/>
+<entry endPc="268436603" name="distance" stackId="7" startPc="268436419"/>
+<entry endPc="268436798" name="activitySteps" stackId="6" startPc="268436349"/>
+<entry endPc="268436798" name="activityInfo" stackId="5" startPc="268436349"/>
+<entry endPc="268436798" name="calories" stackId="8" startPc="268436349"/>
+<entry endPc="268436799" name="deviceSettings" stackId="2" startPc="268436345"/>
+<entry endPc="268436799" name="dc" stackId="1" startPc="268436345"/>
+<entry endPc="268436799" name="width" stackId="3" startPc="268436345"/>
+<entry endPc="268436799" name="offset" stackId="4" startPc="268436345"/>
+<entry endPc="268437009" name="BatteryStr" stackId="5" startPc="268436803"/>
+<entry endPc="268437009" name="Battery" stackId="4" startPc="268436803"/>
+<entry endPc="268437010" name="dc" stackId="1" startPc="268436799"/>
+<entry endPc="268437010" name="width" stackId="2" startPc="268436799"/>
+<entry endPc="268437010" name="offset" stackId="3" startPc="268436799"/>
+<entry endPc="268437053" name="state" stackId="1" startPc="268437048"/>
+<entry endPc="268437058" name="state" stackId="1" startPc="268437053"/>
+<entry endPc="268437292" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268437112"/>
+<entry endPc="268437293" name="dc" stackId="1" startPc="268437100"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="150" parentId="globals" symbolId="slyfaceApp" type="class"/>
+<dataEntry offset="221" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="300" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="339" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="370" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="401" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="440" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="471" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="510" parentId="globals" symbolId="slyfaceView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="slyfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="slyfaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="slyfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="slyfaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawTime" parent="slyfaceView">
+<param id="dc"/>
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawCaloriesAndSteps" parent="slyfaceView">
+<param id="dc"/>
+<param id="deviceSettings"/>
+<param id="width"/>
+<param id="offset"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawBattery" parent="slyfaceView">
+<param id="dc"/>
+<param id="width"/>
+<param id="offset"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="slyfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="slyfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="slyfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="slyfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="slyfaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="slyfaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="slyfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
